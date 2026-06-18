@@ -3,7 +3,6 @@
 ```bash
 $ whoami
 
-Cassian
 Security Researcher
 Software Engineer
 ```
